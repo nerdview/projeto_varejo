@@ -19,5 +19,5 @@ O objetivo deste projeto é fazer uma análise de Business Intelligence - Pergun
  
 ## Pipeline
 
-Inicialmente tenhos o nosso fluxo de operações da seguinte maneira:
+Inicialmente temos o nosso fluxo de operações da seguinte maneira:
 ### Análise Exploratória > Coleta de Dados > Correlação de Dados > Análise de Dados > Insights 
